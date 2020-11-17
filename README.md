@@ -8,7 +8,9 @@
 - [ ] Use JS to select DOM nodes
 - [ ] Use JS to add, remove, and edit DOM nodes
 
-### Notes
+### Videos
+
+All the videos are available in this [playlist](https://www.youtube.com/playlist?list=PLc6AmvC5ZybwcFpuyvwuDjQ_D0Z8sQ1iE).
 
 ### The Document Object Model Overview
 - What is the DOM?

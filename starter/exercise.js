@@ -20,4 +20,20 @@ const animalData = [
   }
 ]
 
+/*
+Example Card HTML
+<li class="card">
+  <div class="image">
+    <img src="{animal image}" alt="{animal name}">
+  </div>
+  <div class="content">
+    <h4>{animal name}</h4>
+    <p class="description">{animal description}</p>
+  </div>
+  <button class="button donate-button" data-action="donate">
+    $<span class="donation-count">{animal donations}</span> Donated
+  </button>
+</li>
+*/ 
+
 // Get all these objects to display in the DOM
